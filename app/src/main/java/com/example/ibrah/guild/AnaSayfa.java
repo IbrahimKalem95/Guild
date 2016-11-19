@@ -15,6 +15,7 @@ public class AnaSayfa extends AppCompatActivity implements HomeFragment.OnFragme
     TabLayout tabLayout ;
     ViewPager viewPager;
     ViewPagerAdaptır viewPagerAdaptır ;
+    //test change
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -1,0 +1,16 @@
+Index: app/src/main/res/layout/fragment_guild.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/fragment_guild.xml	(revision 710e60022fdb828b03abfab8f6aa8d2b3d91ffd9)
++++ app/src/main/res/layout/fragment_guild.xml	(revision )
+@@ -8,7 +8,7 @@
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+-        android:text="Guild fragment"
++        android:text="Guild :D  fragment"
+         android:gravity="center"
+         android:textSize="30sp"
+         android:textStyle="bold"/>
